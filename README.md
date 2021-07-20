@@ -5,3 +5,5 @@ news application for react native.
 メモアプリは飽きてきたのでニュースアプリを作ることにする。
 
 apple developerなんでpendingやねん・・・リリースできへんやんけ
+
+ちょっと上記の通り作るつもりだったんですがちょっと別のものに興味湧いたので一旦これ放置
